@@ -15,7 +15,7 @@ font-family: 'Aggro';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/Aggro.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/Aggro.css" type="text/css"/>
 ```
 
 &nbsp;
