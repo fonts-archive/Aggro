@@ -36,7 +36,9 @@ font-face
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroL.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroL.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroL.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroL.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroL.ttf') format('truetype');
 }
 @font-face {
@@ -44,7 +46,9 @@ font-face
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroM.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroM.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroM.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroM.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroM.ttf') format('truetype');
 }
 @font-face {
@@ -52,7 +56,9 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.ttf') format('truetype');
 }
 ```
