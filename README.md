@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Aggro';
@@ -12,7 +12,7 @@ font-family: 'Aggro';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/Aggro.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/Aggro.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -61,4 +61,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Aggro/AggroB.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+샌드박스 어그로체의 지식 재산권은 (주)샌드박스네트워크가 보유합니다. 
+샌드박스에서 무료로 배포하는 어그로체는 개인, 기업 사용자 모두 자유롭게 수정 및 변경해 
+영리, 비영리 목적으로 사용할 수 있습니다
 ```
